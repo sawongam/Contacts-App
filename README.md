@@ -2,7 +2,7 @@
 ![Kotlin](https://img.shields.io/badge/Language-Dart-red.svg) 
 ![Status](https://img.shields.io/badge/Status-Complete-orange.svg)
 
-A simple Flutter application that allows users to manage their contacts. Users can add, view, update, and delete contact information in a user-friendly interface.
+A simple Flutter application that allows users to add, view, update, and delete contact information using JSON for local data storage.
 
 ## Features
 - View a list of contacts with their names and phone numbers.
