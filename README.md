@@ -1,5 +1,5 @@
 # Contacts App
-![Kotlin](https://img.shields.io/badge/Language-Dart-red.svg) 
+![Flutter](https://img.shields.io/badge/Language-Dart-red.svg) 
 ![Status](https://img.shields.io/badge/Status-Complete-orange.svg)
 
 A simple Flutter application that allows users to add, view, update, and delete contact information using JSON for local data storage.
